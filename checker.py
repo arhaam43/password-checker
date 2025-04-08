@@ -46,8 +46,8 @@ st.markdown(""""
             } 
     .stButton button {
             display: block;
-            background-color: blue;
-            color: white; 
+            background-color: DarkTurquoise;
+            color: black; 
             margin-left: auto;
             margin-right: auto;
             font-size: 18px
